@@ -2,7 +2,7 @@
 The purpose of this document is to summarize the global recommendations from a SQL Server perspective, applied specifically to a Microsoft Endpoint Configuration Manager (MECM) environment. This document includes general best practices for SQL Server configuration and management
 
 
-04/28/2017 Doc updated to 2.0
+04/28/2017 Doc updated to 2.0  (Thanks to Frederic Michalak for his contribution)
 
 12/26/2017 Doc updated to 2.1 in order to fix the revision dates (04/28/2017 and 12/26/2017)
 

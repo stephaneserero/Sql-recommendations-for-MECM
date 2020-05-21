@@ -25,3 +25,9 @@ The purpose of this document is to summarize the global recommendations from a S
 * Microsoft Offerings update
 * Database compatibility level
 * Replace SCCM by MECM
+
+05/22/2020 Doc updated to 2.6 with the following information (Thanks to Ryad Ben Salah and Benjamin Reynolds for their contribution)
+* Collation update
+* TSQL queries update
+* CheckDB update
+* Maintenance paragraphs reorganization
